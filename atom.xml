@@ -6,7 +6,7 @@
   <link href="http://localhost:4000/atom.xml" rel="self"/>
   
   <link href="http://localhost:4000/"/>
-  <updated>2024-03-21T12:15:09.791Z</updated>
+  <updated>2024-03-21T13:42:54.329Z</updated>
   <id>http://localhost:4000/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new blog</title>
+    <link href="http://localhost:4000/2024/03/21/new-blog/"/>
+    <id>http://localhost:4000/2024/03/21/new-blog/</id>
+    <published>2024-03-21T13:42:54.000Z</published>
+    <updated>2024-03-21T13:42:54.329Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
