@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://fortltude.github.io/project/atom.xml" rel="self"/>
+  
+  <link href="https://fortltude.github.io/project/"/>
+  <updated>2024-03-22T05:07:45.236Z</updated>
+  <id>https://fortltude.github.io/project/</id>
+  
+  <author>
+    <name>Yihan Weng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First!</title>
+    <link href="https://fortltude.github.io/project/2024/03/22/First/"/>
+    <id>https://fortltude.github.io/project/2024/03/22/First/</id>
+    <published>2024-03-22T05:07:45.000Z</published>
+    <updated>2024-03-22T05:07:45.236Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
